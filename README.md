@@ -43,11 +43,5 @@ The website includes smooth animations, modern UI components, and a responsive l
 
 ---
 
-## Project Structure
-BrightSmile-Dental-Website
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+
 
