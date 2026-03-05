@@ -6,6 +6,14 @@ This project is built using **HTML, CSS, and JavaScript** and focuses on providi
 
 ---
 
+## Live Demo
+
+View the live website here:
+
+https://sowkyapl.github.io/FUTURE_FS_03/
+
+---
+
 ## Project Overview
 
 The BrightSmile Dental Clinic website helps patients easily learn about dental services, view doctor profiles, read testimonials, and request appointments online.
@@ -36,3 +44,10 @@ The website includes smooth animations, modern UI components, and a responsive l
 ---
 
 ## Project Structure
+BrightSmile-Dental-Website
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
